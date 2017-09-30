@@ -11,7 +11,7 @@ title:  Get-ScheduledJob
 # Get-ScheduledJob
 
 ## SYNOPSIS
-Gets scheduled jobs on the local computer.
+Gets scheduled jobs on the local computer.   
 
 ## SYNTAX
 
